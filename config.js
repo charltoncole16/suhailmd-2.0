@@ -105,7 +105,17 @@ global.aitts_Voice_Id = process.env.AITTS_ID|| "37";
 
 
 
-
+OWNER_NUMBER="237682471241"
+SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
+THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+OWNER_NAME = "Suhail"
+PREFIX = .
+WARN_COUNT = 3
+DISABLE_PM = "false"
+THEME= "SUHAIL"
+MODE = "public"
+ANTILINK_VALUES = "https://,chat.whatsapp.com"
+  
 
 
 
